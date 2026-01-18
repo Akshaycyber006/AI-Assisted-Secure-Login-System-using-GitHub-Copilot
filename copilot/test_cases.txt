@@ -1,0 +1,15 @@
+
+Test Case 1:
+Username: admin
+Password: 1234567890
+Expected Output: Login Successful
+
+Test Case 2:
+Username: admin
+Password: admin123
+Expected Output: Invalid username or password
+
+Test Case 3:
+Username: user1
+Password: test123
+Expected Output: Login Failed / Invalid username
