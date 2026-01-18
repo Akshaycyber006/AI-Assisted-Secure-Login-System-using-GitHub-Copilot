@@ -70,9 +70,7 @@ Code quality: Improved using AI assistance
 
 ## References
 - GitHub Copilot Documentation
-- Python Official Documentation
-- OWASP Secure Coding Guidelines
 
 ## Author
-Your Name  
+ AKS
 Internship Project – GitHub Copilot
