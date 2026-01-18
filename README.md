@@ -72,5 +72,6 @@ Code quality: Improved using AI assistance
 - GitHub Copilot Documentation
 
 ## Author
- AKS
+ AKShay/
+ 
 Internship Project – GitHub Copilot
